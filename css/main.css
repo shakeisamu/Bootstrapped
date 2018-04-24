@@ -1,6 +1,7 @@
-body {
-    font-family: 'Courier New', Courier, monospace;
-    margin-top: 70px;
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: lightgrey;
+    margin-top: 15px;
 
 }
 
@@ -29,4 +30,12 @@ p {
 
 .nav-link {
     font-size: 14px;
+}
+
+.face {
+    opacity: 0.5;
+}
+
+h4 {
+    font-family: 'Noto Sans', sans-serif;
 }

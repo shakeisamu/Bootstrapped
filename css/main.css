@@ -34,6 +34,7 @@ p {
 
 .face {
     opacity: 0.5;
+    transform: rotateX(360deg) rotateY(180deg);
 }
 
 h4 {
